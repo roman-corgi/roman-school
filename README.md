@@ -9,4 +9,4 @@ https://romanschool2026.sciencesconf.org/resource/page/id/4
 This repository contains hands-on material for the lectures on:
 - High-contrast imaging and the Roman coronagraph
 - Atmospheric modelling and retrieval
-- Disks
+- Disks https://doi.org/10.5281/zenodo.18940698
